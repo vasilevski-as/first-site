@@ -116,6 +116,14 @@ p {
     font-size: 1rem;
     color:#fff;
 }
+.table {
+    display: flex;
+    justify-content: center;
+}
+.table td {
+    width: auto;
+    padding: 6px 20px;
+}
 
 /* Btn */
 
